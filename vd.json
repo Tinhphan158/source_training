@@ -1,0 +1,112 @@
+{
+    "message": "info.code.2000",
+    "code": 2000,
+    "data": [
+        {
+            "employeeCode": "F00022",
+            "attendanceCode": "AC001",
+            "employeeName": "Vo Thi Diem My",
+            "gender": "Nu",
+            "position": "Back end",
+            "departmentName": "TSP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372938172",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": "F00021",
+            "attendanceCode": "AC002",
+            "employeeName": "Nguyen Van A",
+            "gender": "Nu",
+            "position": "Back end",
+            "departmentName": "TTP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372939972",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": "F00023",
+            "attendanceCode": "AC003",
+            "employeeName": "Trinh Hoang Quan",
+            "gender": "Nam",
+            "position": "Back end",
+            "departmentName": "TSP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372939592",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": "F00029",
+            "attendanceCode": "AC009",
+            "employeeName": "Vo Thi Diem My",
+            "gender": "Nu",
+            "position": "Back end",
+            "departmentName": "TTP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372938172",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": "0002null",
+            "attendanceCode": "0002null",
+            "employeeName": "Vo Thi Diem My",
+            "gender": "Nu",
+            "position": "Back end",
+            "departmentName": "TTP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372938172",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": null,
+            "attendanceCode": null,
+            "employeeName": "Nguuyen B",
+            "gender": "Nu",
+            "position": "Back end",
+            "departmentName": "TSP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372938892",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": null,
+            "attendanceCode": null,
+            "employeeName": "Nguuyen B",
+            "gender": "Nu",
+            "position": "Back end",
+            "departmentName": "TSP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372938892",
+            "status": "Hoat dong"
+        },
+        {
+            "employeeCode": "00028",
+            "attendanceCode": "00028",
+            "employeeName": "Nguuyen C",
+            "gender": "Nam",
+            "position": "Back end",
+            "departmentName": "TTP",
+            "level": "Thuc tap sinh",
+            "socialInsurance": null,
+            "taxCode": null,
+            "phoneNumber": "0372938892",
+            "status": "Hoat dong"
+        }
+    ],
+    "totalPages": 1,
+    "totalElements": 8
+}

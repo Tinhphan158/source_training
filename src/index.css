@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.home-text_900 {
+  font-weight: 900;
+}/*# sourceMappingURL=index.css.map */
